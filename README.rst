@@ -46,7 +46,7 @@ https://github.com/astronomer/astronomer-cosmos/blob/24aa38e528e299ef51ca6baf32f
 
 This will generate an Airflow DAG that looks like this:
 
-.. figure:: /docs/_static/jaffle_shop_dag.png
+.. figure:: https://github.com/astronomer/astronomer-cosmos/blob/main/docs/_static/jaffle_shop_dag.png
 
 
 Community
@@ -82,7 +82,9 @@ _______
 Privacy Notice
 ______________
 
-This project follows `Astronomer's Privacy Policy <https://www.astronomer.io/privacy/>`_
+The application and this website collect telemetry to support the project's development. These can be disabled by the end-users.
+
+Read the `Privacy Notice <https://github.com/astronomer/astronomer-cosmos/blob/main/PRIVACY_NOTICE.rst>`_ to learn more about it.
 
 .. Tracking pixel for Scarf
 
